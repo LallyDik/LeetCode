@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/LallyDik/LeetCode/tree/master/0001-two-sum) |
 | [3321-type-of-triangle](https://github.com/LallyDik/LeetCode/tree/master/3321-type-of-triangle) |
 ## Math
 |  |
@@ -15,4 +16,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3321-type-of-triangle](https://github.com/LallyDik/LeetCode/tree/master/3321-type-of-triangle) |
+## Hash Table
+|  |
+| ------- |
+| [0001-two-sum](https://github.com/LallyDik/LeetCode/tree/master/0001-two-sum) |
 <!---LeetCode Topics End-->
